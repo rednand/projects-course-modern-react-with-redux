@@ -1,6 +1,8 @@
-# Projetos realizados durante curso Modern React with Redux
+# Curso Modern React with Redux
 
-## Pré-requisitos para rodar o projeto
+## Projetos realizados durante o curso mencionado no título
+
+### Pré-requisitos para rodar o projeto
 
 [Node](https://nodejs.org/en/download/) é necessário para instalar as demais dependências do projeto. Logo em seguida, instalar o *yarn*.
 
@@ -21,6 +23,6 @@ yarn install
 O comando abaixo inicializa o projeto. Para acessar, ir no browser e acessar o [ambiente localhost](http://localhost:3000/).
 
 ```bash
-yarn dev
+yarn start
 ```
 
