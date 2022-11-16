@@ -10,7 +10,7 @@ npm install --global yarn
 
 ## Instalação
 
-Rodar o comando na raiz do projeto, para baixar as dependências do *package.json*
+Rodar o comando na raiz do projeto, dentro de cada pasta, para baixar as dependências do *package.json*
 
 ```bash
 yarn install
